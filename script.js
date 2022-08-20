@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia903408.us.archive.org/24/items/22_20210218/%D8%A3%D9%82%D9%85%20%D8%B5%D9%84%D8%A7%D8%AA%D9%83..%20%D8%AA%D8%AD%D9%84%D9%88%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%83%20%20%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'أقم صلاتك.. تحلو حياتك  ذ. ياسين العمري',
       id: 0,
     },
@@ -12,28 +12,28 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia903408.us.archive.org/24/items/22_20210218/%D8%A7%D8%AD%D8%B0%D8%B1..%20%D9%82%D8%AF%20%D8%AA%D8%B5%D9%81%20%D8%BA%D9%8A%D8%B1%D9%83%20%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82..%20%D9%88%D9%81%D9%8A%D9%83%20%D8%AE%D8%B5%D9%84%D8%A9%20%D9%85%D9%86%20%D8%AE%D8%B5%D9%84%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D9%82%D9%8A%D9%86%20%20%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'احذر.. قد تصف غيرك بالمنافق.. وفيك خصلة من خصل المنافقين',
       id: 1,
     },
     {
       audioSrc: 'https://ia803408.us.archive.org/24/items/22_20210218/%D8%A7%D9%84%D8%AF%D8%B1%D8%B3%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%20%D8%B9%D8%B4%D8%B1%D8%A5%D8%B3%D9%84%D8%A7%D9%85%20%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%88%D9%82%20%D8%B9%D9%85%D8%B1%20%D9%88%D8%AD%D9%85%D8%B2%D8%A9%20%D9%88%D8%A3%D8%A8%D9%8A%20%D8%B0%D8%B1%D8%A7%D9%84%D8%BA%D9%81%D8%A7%D8%B1%D9%8A%D8%B0.%D9%8A%D8%A7%D8%B3%D9%8A%D9%80%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D9%80%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'إسلام الفاروق عمر وحمزة وأبي ذرالغفار',
       id: 2,
     },
     {
       audioSrc: "https://ia903408.us.archive.org/24/items/22_20210218/%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B7%D8%B1%D8%A9%20-%20%D8%A7%D9%84%D8%A3%D9%88%D8%B5%D8%A7%D9%81%20%D8%A7%D9%84%D8%AE%D9%84%D9%82%D9%8A%D8%A9%20%D9%84%D9%84%D9%86%D8%A8%D9%8A%20%D8%B5%D9%84%D9%89%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B9%D9%84%D9%8A%D9%87%20%D9%88%D8%B3%D9%84%D9%85%20__%20%D9%84%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3",
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: "السيرة النبوية العطرة - الأوصاف الخلقية للنبي صلى الله عليه وسلم ",
       id: 3,
     },
     {
       audioSrc: 'https://ia803408.us.archive.org/24/items/22_20210218/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A8%D9%8A%D9%86%20%D8%B9%D9%88%D8%A7%D9%85%D9%84%20%D8%A7%D9%84%D9%86%D8%B5%D8%B1%20%D9%88%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D9%87%D8%B2%D9%8A%D9%85%D8%A9%20%20%D8%B0%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ.... ياسين العمري',
       desc: 'الشباب بين عوامل النصر وأسباب الهزيمة',
       id: 4,
     },
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D8%A7%D9%84%D9%82%D9%84%D9%88%D8%A8%20%D8%AB%D9%84%D8%A7%D8%AB%D8%A9%20%D8%A3%D8%B5%D9%86%D8%A7%D9%81%D8%8C%20%D9%81%D9%82%D9%84%D8%A8%D9%83%20%D9%85%D9%86%20%D8%A3%D9%8A%20%D8%B5%D9%86%D9%81%D8%9F%20%20%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ.... ياسين العمري',
       desc: 'القلوب ثلاثة أصناف، فقلبك من أي صنف؟',
       id: 5,
     },
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D8%A7%D9%8A%D8%A7%D9%83%20%D8%A7%D9%84%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%85.%20....%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ.... ياسين العمري',
       desc: 'اياك المال الحرام',
       id: 6,
     },
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D8%AA%D9%8F%D8%A8%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D8%B5%D8%AF%D9%82%28%D8%AF%D9%85%D9%88%D8%B9%20%D8%BA%D8%A7%D9%84%D9%8A%D8%A9%29%D8%8C%20%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'تُب إلى الله بصدق(دموع غالية)',
       id: 7,
     },
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D8%AB%D9%85%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A5%D9%8A%D9%85%D8%A7%D9%86%20%D8%A8%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D9%82%D8%AF%D8%B1%20%20%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'ثمرات الإيمان بالقضاء والقدر',
       id: 8,
     },
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D9%86%D8%A9%20%D8%8C%20%D8%AF%D8%B1%D9%88%D8%B3%20%D9%88%20%D8%B9%D8%A8%D8%B1%20%D9%84%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'حديث السفينة ، دروس و عبر',
       id: 9,
     },
@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%D8%AE%D8%B7%D8%B1%20%D8%A7%D9%84%D8%B4%D8%B1%D9%83%20%D9%88%D8%A7%D9%84%D8%B4%D8%B9%D9%88%D8%B0%D8%A9%20%D9%81%D9%8A%20%D8%B9%D8%A7%D8%B4%D9%88%D8%B1%D8%A7%D8%A1.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ.... ياسين العمري',
       desc: 'خطر الشرك والشعوذة في عاشوراء',
       id: 10,
     },
@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D8%B4%D8%A7%D9%87%D8%AF%20%20%D9%83%D9%8A%D9%81%20%D8%AA%D8%AC%D8%B9%D9%84%20%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1%D8%A7%20%D9%81%D9%8A%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%83%21%20%20%D8%B0%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20Al%20Quran%20%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'شاهد  كيف تجعل للقرآن تأثيرا في حياتك! ',
       id: 11,
     },
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia903408.us.archive.org/24/items/22_20210218/%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%AD%D9%88%D9%84%20%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84%D8%8C%20%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9%20%D9%85%D8%A7%D8%AA%D8%B9%D8%A9%20%D9%84%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20The%20Youth%20With%20The%20Messenger%20-%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'شباب حول الرسول',
       id: 12,
     },
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D8%B9%D9%84%D9%85%20%D8%A3%D8%A8%D9%86%D8%A7%D8%A1%D9%83%20%D8%A7%D9%84%D8%AD%D8%A8%20%D9%82%D8%A8%D9%84%20%D8%A3%D9%86%20%D9%8A%D8%AA%D8%B9%D9%84%D9%85%D9%88%D9%87%20%D9%85%D9%86%20%D8%A7%D9%84%D8%A3%D9%81%D9%84%D8%A7%D9%85%20%20%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ.... ياسين العمري',
       desc: 'علم أبناءك الحب قبل أن يتعلموه من الأفلام ',
       id: 13,
     },
@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D9%81%D8%B6%D9%84%20%D8%A7%D9%84%D8%B5%D8%AF%D9%82%D8%A9%20%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9%20%20%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'فضل الصدقة الجارية',
       id: 14,
     },
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D9%82%D8%B5%D8%A9%20%D8%AA%D9%88%D8%A8%D8%A9%20%D8%AB%D9%85%D8%A7%D9%85%D8%A9%20%D8%A3%D9%83%D8%A8%D8%B1%20%D8%B9%D8%AF%D9%88%20%D9%84%D9%84%D9%86%D8%A8%D9%8A%20%EF%B7%BA%20%D8%A7%D9%84%D8%AA%D9%8A%20%D8%A3%D8%A8%D9%83%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ.... ياسين العمري',
       desc: 'قصة توبة ثمامة أكبر عدو للنبي ﷺ',
       id: 15,
     },
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D9%84%D9%85%D9%86%20%D9%8A%D8%AE%D8%A7%D9%81%20%D9%85%D9%86%20%D8%A7%D9%84%D8%AC%D9%86..%20%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%D8%AD%D9%81%D8%B8%D9%87%20%D8%A7%D9%84%D9%84%D9%87%F0%9F%A4%8E.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ....ياسين العمري',
       desc: 'لمن يخاف من الجن',
       id: 16,
     },
@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82%20%D8%A7%D9%84%D8%AA%D9%8A%20%D9%86%D8%B1%D9%8A%D8%AF%20%20%D9%84%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%20yassine%20elamri.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'محاضرة الأخلاق الت',
       id: 17,
     },
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9%20%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%D8%A7%D9%84%D8%AB%D8%A8%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%B2%D9%85%D9%86%20%D8%A7%D9%84%D9%81%D8%AA%D9%86%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ... ياسين العمري',
       desc: 'الثبات في زمن الفتن',
       id: 18,
     },
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia803408.us.archive.org/24/items/22_20210218/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9%20%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D9%85%20%D8%A7%D9%84%D8%B1%D8%B6%D8%A7%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ....ياسين العمري',
       desc: 'مقام الرضا',
       id: 19,
     },
@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia903408.us.archive.org/24/items/22_20210218/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9%20%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%D9%83%D8%A7%D9%86%20%D8%AE%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ.... ياسين العمري',
       desc: 'كان خلقه القرآن',
       id: 20,
     },
@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         'https://ia903408.us.archive.org/24/items/22_20210218/%D9%87%D8%B0%D8%A7%20%D8%B1%D8%B3%D9%88%D9%84%20%D8%A7%D9%84%D9%84%D9%87%20%EF%B7%BA..%20Voici%20Mohammad%20%20%D8%B0.%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.mp3',
       coverSrc: 'https://ia903408.us.archive.org/24/items/22_20210218/%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9%20....%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A.jpg?cnt=0',
-      name: 'الاستاد ياسين العمري',
+      name: ' الأستاذ.... ياسين العمري',
       desc: 'هذا رسول الله ﷺ..',
       id: 21,
     },
